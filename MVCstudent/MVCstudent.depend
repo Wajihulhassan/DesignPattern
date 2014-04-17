@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1397365883 source:c:\users\wajih\desktop\assignment1\mvcstudent\main.cpp
+	<iostream>
+	"Student.h"
+	"StudentView.h"
+	"StudentController.h"
+
+1397364923 source:c:\users\wajih\desktop\assignment1\mvcstudent\src\student.cpp
+	"Student.h"
+
+1397366313 c:\users\wajih\desktop\assignment1\mvcstudent\include\student.h
+	<string>
+
+1397365665 source:c:\users\wajih\desktop\assignment1\mvcstudent\src\studentcontroller.cpp
+	"StudentController.h"
+
+1397366023 c:\users\wajih\desktop\assignment1\mvcstudent\include\studentcontroller.h
+	"Student.h"
+	"StudentView.h"
+
+1397366393 c:\users\wajih\desktop\assignment1\mvcstudent\include\studentview.h
+	<iostream>
+
+1397364664 source:c:\users\wajih\desktop\assignment1\mvcstudent\src\studentview.cpp
+	"StudentView.h"
+
+1397364923 source:h:\new folder (3)\assignment1\mvcstudent\src\student.cpp
+	"Student.h"
+
+1397366313 h:\new folder (3)\assignment1\mvcstudent\include\student.h
+	<string>
+
+1397366036 source:h:\new folder (3)\assignment1\mvcstudent\src\studentcontroller.cpp
+	"StudentController.h"
+
+1397366023 h:\new folder (3)\assignment1\mvcstudent\include\studentcontroller.h
+	"Student.h"
+	"StudentView.h"
+
+1397366393 h:\new folder (3)\assignment1\mvcstudent\include\studentview.h
+	<iostream>
+
+1397364664 source:h:\new folder (3)\assignment1\mvcstudent\src\studentview.cpp
+	"StudentView.h"
+
+1397727358 source:h:\new folder (3)\assignment1\mvcstudent\main.cpp
+	<iostream>
+	"Student.h"
+	"StudentView.h"
+	"StudentController.h"
+

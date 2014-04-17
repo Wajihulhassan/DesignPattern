@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1397729105 source:h:\new folder (3)\assignment1\weather\main.cpp
+	<iostream>
+	"WeatherData.h"
+	"CurrentConditionsDisplay.h"
+
+1397729008 h:\new folder (3)\assignment1\weather\include\weatherdata.h
+	<vector>
+	"Observer.h"
+	"Subject.h"
+
+1397728434 h:\new folder (3)\assignment1\weather\include\observer.h
+
+1397729122 h:\new folder (3)\assignment1\weather\include\subject.h
+	"Observer.h"
+
+1397729066 h:\new folder (3)\assignment1\weather\include\currentconditionsdisplay.h
+	<iostream>
+	"Observer.h"
+	"DisplayElement.h"
+	"Subject.h"
+
+1397728755 h:\new folder (3)\assignment1\weather\include\displayelement.h
+
+1397729076 source:h:\new folder (3)\assignment1\weather\src\currentconditionsdisplay.cpp
+	"CurrentConditionsDisplay.h"
+
+1397728729 source:h:\new folder (3)\assignment1\weather\src\displayelement.cpp
+	"DisplayElement.h"
+
+1397728236 source:h:\new folder (3)\assignment1\weather\src\observer.cpp
+	"Observer.h"
+
+1397728455 source:h:\new folder (3)\assignment1\weather\src\subject.cpp
+	"Subject.h"
+
